@@ -1,0 +1,158 @@
+html{
+	margin:0;
+	padding:0;
+}
+body{
+	padding:10px;
+	margin:10px;
+	background-image:url(Images/pink-star-roses-of-the-galaxies.jpg);
+	color:#c6d9ec;
+}
+
+header{
+	font-family:Cursive;
+	font-size:3vw;
+	text-decoration:underline;
+	color:#c6d9ec;
+	border:3px #008080 solid;
+	border-radius:5px;
+	background-image:url(Images/e=mc2_image.jpg);
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+		overflow: hidden;
+    background-color: #3973ac;
+		border:#008080 1px solid;
+		border-radius:2px;
+}
+li a{
+	font-size:20px;
+	color:#c6d9ec;
+	display:block;
+	background-color:#3973ac;
+	float:left;
+	padding:14px 16px;
+}
+a:hover{
+	background-color:teal;
+}
+.image{
+	border:2px #008080 solid;
+	border-radius:4px;
+	display: block;
+	margin-left: auto;
+    margin-right: 10px;
+	margin-top:5px;
+	float:left;
+
+}
+#figure1{
+	display:block;
+	border:2px teal solid;
+	background-color:#3973ac transparent;
+	color:#c6d9ec;
+	float:right;
+	padding:3px;
+	margin:0 0 5px 7px;
+	border-radius:3px;
+	font-size:8pt;
+	Clear:both;
+}
+#figure2{
+	display:block;
+	border:2px teal solid;
+	background-color:#3973ac transparent;
+	color:#c6d9ec;
+	float:right;
+	padding:3px;
+	margin:0 0 0 7px;
+	border-radius:3px;
+	font-size:8pt;
+	Clear:both;
+}
+
+#figure3{
+	display:block;
+	border:2px teal solid;
+	background-color:#3973ac transparent;
+	color:#c6d9ec;
+	float:right;
+	padding:3px;
+	margin:5px 0 20px 7px;
+	border-radius:3px;
+	font-size:8pt;
+	Clear:both;
+}
+footer{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3973ac;
+    color: white;
+	font-size:7pt;
+	border-top:grey;
+}
+hr{
+	position:fixed;
+}
+#figure4{
+	display:block;
+	border:2px teal solid;
+	background-color:#3973ac transparent;
+	color:#c6d9ec;
+	float:left;
+	padding:3px 3px;
+	margin:0 5px 0 0;
+	border-radius:3px;
+	font-size:7pt;
+}
+#figure5{
+	display:block;
+	border:2px teal solid;
+	background-color:#3973ac transparent;
+	color:#c6d9ec;
+	float:right;
+	padding:3px;
+	margin:0 0 5px 7px;
+	border-radius:3px;
+	font-size:8pt;
+	Clear:both;
+}
+.submit{
+	background-color:#3fb6b2;
+	padding:12px 45px;
+	border-radius:5px;
+	cursor:pointer;
+	color:#000000;
+	border:none;
+	outline:none;
+	margin:0;
+	font-weight:bold;
+}
+.submit:hover{
+	background-color:#43a09d;
+}
+textarea{
+	height:100px;
+}
+Input, textarea{
+	margin-bottom:10px;
+	font-size:11pt;
+	padding:15px 10px 10px 15px;
+	border:1px solid #cecece;
+	background-color:#efefef;
+	color:#787575;
+	border-radius:5px;
+	width:70%;
+	outline:none;
+
+}
+.forms{
+	text-align:center;
+}
